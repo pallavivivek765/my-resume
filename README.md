@@ -39,16 +39,16 @@ div{
 <p>              email:pallavivivek765@gmail.com<br>phno:8861321765<br>address:Tumkur</p>
 <h3>             email: <a href="mailto:pallavivivek765@gmail.com">email link</a></h3></div>
 <h4 style="background-color:gray"> EDUCATION:</h4>
-<p style="background-color:ivory">college:sarvodaya pre-university college</p>
+<p>college:sarvodaya pre-university college</p>
 <p>Percentage:75%</p>
-<p style="background-color:ivory">Currently studying at siddaganga institute of technology</p>
+<p>Currently studying at siddaganga institute of technology</p>
 <p>CGPA:7.50</p>
 
 <h4 style="background-color:gray">TECHNICAL SKILLS:</h4>
 <p> C , object oriented programming and caed. </p>
 
 <h5 style="background-color:gray">WORKSHOP:</h5>
-<p style="background-color:ivory">           Attended the workshop of latex. </p>
+<p>           Attended the workshop of latex. </p>
 <p>           Attended the workshop organized by Tedx. </p>
 
 <h6 style="background-color:gray">INTRESTS:</h6>
