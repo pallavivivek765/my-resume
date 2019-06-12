@@ -7,14 +7,14 @@
 <body>
 <table cellspacing="20">
  <tr>
-    <td>
-	
-       <img src="pallavi.jpg"alt="images/pallavi.jpg" height="200" width="200">
+   <td>
+	<br>
+        <img src="pallavi.jpg"alt="images/pallavi.jpg" height="200" width="200">
 
 
-  </td>
-  <td>
-</div>
+   </td>
+   <td>
+
 
 
 <h1 align="center">  PALLAVI  </h1>
