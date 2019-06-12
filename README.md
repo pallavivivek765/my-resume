@@ -59,7 +59,7 @@ div{
 <style>/* Stylesheet 2: */
 body {
    font-family: Arial;
-    background-color: #d14836;
+    background-color: #E6E6FA;
     line-height: 20px;
 
 
