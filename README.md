@@ -54,12 +54,7 @@ div{
 <h6>INTRESTS:</h6>
 <p>           watching online videos of programming languages.</p>
 
-<h7>FORM:</h7>
-<form action="index.html"method="get">
- First Name : <input type="text"name="fname"><br>
- Last Name  : <input type="text"name="lname"><br>
-<input type="submit" value="submit">
-</form>
+
 
 <style>/* Stylesheet 2: */
 body {
