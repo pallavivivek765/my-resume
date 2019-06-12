@@ -9,7 +9,7 @@
  <tr>
     <td>
 	
-       <img src="pallavi.jpg"alt="pictures\images.jpg" height="200" width="200">
+       <img src="pallavi.jpg"alt="images/pallavi.jpg" height="200" width="200">
 
 
   </td>
